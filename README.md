@@ -1,6 +1,10 @@
 # Android-CameraHack
 This tool helps you to hack android device front camera
 
+
+
+
+
 Git this Rpositories :
 
     git clone https://github.com/hackerxphantom/HACK-CAMERA.git
